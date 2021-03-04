@@ -4,10 +4,10 @@
 This project was started on 03/03/2021.
 
 ### Project Title
-Replace the Project Title
+Udacity Git Commands Project
 
 ### Description
-Describe what your project is about and what it does
+This is a comprehensive project displaying the use of git and GitHub in a project environment.
 
 ### Files used
 Include the files used
