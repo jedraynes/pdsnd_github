@@ -10,8 +10,8 @@ Udacity Git Commands Project
 This is a comprehensive project displaying the use of git and GitHub in a project environment.
 
 ### Files used
-Include the files used
+The files used are the README.md file and the Bike_Share_Analysis.ipynb from a previous Udacity course project.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Shoutout to the Udacity team for the learning opportunities!
 
